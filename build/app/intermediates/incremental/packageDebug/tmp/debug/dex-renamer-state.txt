@@ -1,0 +1,4 @@
+#Sun Dec 20 19:48:02 AST 2020
+base.0=C\:\\Users\\aklan\\Downloads\\mazad_ios_android-main\\mazad_ios_android\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

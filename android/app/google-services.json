@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413926967429",
+    "firebase_url": "https://mazadmawashy-596bd.firebaseio.com",
+    "project_id": "mazadmawashy-596bd",
+    "storage_bucket": "mazadmawashy-596bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413926967429:android:345c6389071e64ff6dc1ec",
+        "android_client_info": {
+          "package_name": "com.mosaned.mazadmwashy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413926967429-ssliicamm3eneosapejtn1tbdoltanrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKd-rK5XBuNBJoPkpOMPKdAd8bCiVpu94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413926967429-ssliicamm3eneosapejtn1tbdoltanrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
